@@ -156,6 +156,7 @@ POST /check-drift
     "n_samples": 12,
     "alpha": 0.05
 }
+```
 7. Як запустити моніторинг
 
 cd monitoring
